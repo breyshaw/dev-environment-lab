@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/5scnhiE)
+![Imgur](https://i.imgur.com/5scnhiE.png)
 
 
 # dev-environment-lab
